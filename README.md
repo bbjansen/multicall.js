@@ -1,6 +1,6 @@
 # Multicall.js 
 
-[![npm version](https://img.shields.io/npm/v/bbjansen/multicall.svg?style=flat-square)](https://www.npmjs.com/package/bbjansen/multicall)
+[![npm version](https://img.shields.io/npm/v/@bbjansen/multicall.svg?style=flat-square)](https://www.npmjs.com/package/@bbjansen/multicall)
 
 **Multicall.js** is a lightweight JavaScript library for interacting with the [multicall](https://github.com/makerdao/multicall) smart contract.
 
