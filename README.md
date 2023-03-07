@@ -1,6 +1,6 @@
-# Multicall.js <img width="100" align="right" alt="Multicall" src="https://user-images.githubusercontent.com/304108/55666937-320cb180-5888-11e9-907b-48ba66150523.png" />
+# Multicall.js 
 
-[![npm version](https://img.shields.io/npm/v/@makerdao/multicall.svg?style=flat-square)](https://www.npmjs.com/package/@makerdao/multicall)
+[![npm version](https://img.shields.io/npm/v/bbjansen/multicall.svg?style=flat-square)](https://www.npmjs.com/package/bbjansen/multicall)
 
 **Multicall.js** is a lightweight JavaScript library for interacting with the [multicall](https://github.com/makerdao/multicall) smart contract.
 
